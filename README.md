@@ -4,6 +4,9 @@ Listen to device orientation changes in react-native and set preferred orientati
 
 ## important
 
+success to use in react-native version 0.43.2
+
+
 "react-native-orientation": "git+https://github.com/yamill/react-native-orientation.git",
 
 
