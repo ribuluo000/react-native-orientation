@@ -11,7 +11,7 @@ Run `rnpm install react-native-orientation`
 
 #### via npm
 
-Run `npm install react-native-orientation --save`
+Run `npm install --save react-native-orientation@https://github.com/yamill/react-native-orientation.git`
 
 ### Linking
 
