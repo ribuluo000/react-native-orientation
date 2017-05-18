@@ -1,6 +1,23 @@
 ## react-native-orientation
 Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 
+
+## important
+
+"react-native-orientation": "git+https://github.com/yamill/react-native-orientation.git",
+
+
+Change:
+
+react-native-orientation/iOS/RCTOrientation/Orientation.h
+Change 
+#import "RCTBridgeModule.h" 
+To 
+#import <React/RCTBridgeModule.h>
+
+
+
+
 ### Installation
 
 #### via rnpm
